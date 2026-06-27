@@ -1,0 +1,254 @@
+{
+  "title": "Boys' Brigade 34th Singapore Company — Target Test",
+  "topic": "Boys' Brigade History, Values, Traditions, Uniform, Ranks and Company Life",
+  "chatContext": "Students are preparing for the BB 34th Singapore Company Target Test. Here is all the lesson material they need to know:\n\n--- WILLIAM ALEXANDER SMITH ---\nSir William Alexander Smith founded the Boys' Brigade. He was born on 27th October 1854 in Scotland. He founded the BB on 4th October 1883 at Free College Mission Hall, North Woodside, Glasgow, Scotland. He was a Sunday school teacher who wanted to maintain order among unruly boys using religion and discipline.\n\n--- BB STORY ---\nThe Boys' Brigade was founded in 1883. It was the first uniform group for youth in the world.\n\nThe BB in Singapore was started by James Milner Fraser (a member of the 23rd Aberdeen Company who came to Singapore as an architect). Together with SGT Quek Eng Moh, they founded the 1st Singapore Company at Prinsep Street Presbyterian Centre on 12th January 1930.\n\n--- BB VESPER ---\nGreat God who knowest all our needs,\nBless Thou our watch and guard our sleep;\nForgive our sins of thoughts and deed,\nAnd in Thy peace Thy servants keep.\n\nWe thank Thee for the day that's done,\nWe trust Thee for the days to be;\nThy love we learn in Christ Thy Son,\nO may we all His glory see!\n\n--- BB TABLE GRACE ---\nBe present at our table Lord\nBe here and everywhere adored\nThese mercies bless and grant that we\nMay feast in fellowship with Thee\n\n--- BB VALUES ---\nMotto: 'Sure and Steadfast' (from Hebrews 6:19)\nEmblem: Anchor and Red Cross\n\nBB Object: 'The advancement of Christ's Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect and all that tends towards a true Christian Manliness.'\n\n--- UNIFORM ---\nThe 5 types of uniforms:\n1. Day Dress (Full Uniform)\n2. Ceremonial Dress\n3. Musketry Kit (Half Uniform)\n4. Fatigue Dress\n5. PT Kit\n\nFor a Private (PTE), PT Kit consists of:\n1. Blue BB T-shirt\n2. Name tag\n3. Dark blue shorts\n4. White socks\n5. Running shoes\n\n--- RANKS ---\nThe 5 NCO (Non-Commissioned Officer) ranks from lowest to highest:\n1. Lance Corporal (LCP)\n2. Corporal (CPL)\n3. Sergeant (SGT)\n4. Staff Sergeant (SSG)\n5. Warrant Officer (WO)\n\nCSM = Company Sergeant Major (the most senior NCO in a company).\n\nPost-secondary BB program = Primers Program.\nPrimers Program ranks by years of service:\na. Cadet Lieutenant (1st year)\nb. Senior Cadet Lieutenant (subsequent years)\n\nBB Officers ranks (according to their level of training):\na. Officer Cadet\nb. 2nd Lieutenant\nc. Lieutenant",
+
+  "sections": [
+    {
+      "id": "s1",
+      "title": "William Alexander Smith",
+      "icon": "👤",
+      "content": "**Sir William Alexander Smith** is the founder of the Boys' Brigade.\n\n- **Born:** 27th October 1854 in **Scotland**\n- **Founded the BB:** 4th October 1883\n- **Where:** Free College Mission Hall, North Woodside, Glasgow, Scotland\n\nHe was a Sunday school teacher who wanted to maintain order among unruly boys using **religion and discipline**.",
+      "keyFacts": [
+        { "label": "Full name", "value": "Sir William Alexander Smith" },
+        { "label": "Date of birth", "value": "27th October 1854" },
+        { "label": "Place of birth", "value": "Scotland" },
+        { "label": "Founded BB on", "value": "4th October 1883" },
+        { "label": "Founded BB at", "value": "Free College Mission Hall, North Woodside, Glasgow, Scotland" }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "The Boys' Brigade Story",
+      "icon": "🏛️",
+      "content": "The Boys' Brigade was **founded in 1883** — it was the first uniform group for youth in the world.\n\n**BB in Singapore:**\nThe BB in Singapore was started by **James Milner Fraser** (a member of the 23rd Aberdeen Company who came to Singapore as an architect), together with SGT Quek Eng Moh.\n\nThey founded the **1st Singapore Company** at **Prinsep Street Presbyterian Centre** on **12th January 1930**.",
+      "keyFacts": [
+        { "label": "BB founded", "value": "1883" },
+        { "label": "Started BB in Singapore", "value": "James Milner Fraser (+ SGT Quek Eng Moh)" },
+        { "label": "Date in Singapore", "value": "12th January 1930" },
+        { "label": "Location in Singapore", "value": "Prinsep Street Presbyterian Centre" }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "BB Vesper & Table Grace",
+      "icon": "🙏",
+      "content": "**BB Vesper** (sung at the end of every BB gathering):\n\n> Great God who knowest all our needs,\n> Bless Thou our watch and guard our sleep;\n> Forgive our sins of thoughts and deed,\n> And in Thy peace Thy servants keep.\n> \n> We thank Thee for the day that's done,\n> We trust Thee for the days to be;\n> Thy love we learn in Christ Thy Son,\n> O may we all His glory see!\n\n**BB Table Grace** (sung before each meal):\n\n> Be present at our table Lord\n> Be here and everywhere adored\n> These mercies bless and grant that we\n> May feast in fellowship with Thee",
+      "keyFacts": [
+        { "label": "BB Vesper", "value": "Sung at the END of a BB gathering" },
+        { "label": "Table Grace", "value": "Sung BEFORE each meal" },
+        { "label": "Vesper starts with", "value": "Great God who knowest all our needs..." },
+        { "label": "Table Grace starts with", "value": "Be present at our table Lord..." }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "BB Values, Motto & Emblem",
+      "icon": "⚓",
+      "content": "**Motto:** *'Sure and Steadfast'*\n**Source:** Hebrews 6:19\n\n**Emblem:** Anchor and Red Cross\n\n**BB Object:**\n*'The advancement of **Christ's** Kingdom among **Boys** and the promotion of **habits** of **Obedience**, **Reverence**, **Discipline**, **Self-Respect** and all that tends towards a true **Christian** Manliness.'*",
+      "keyFacts": [
+        { "label": "Motto", "value": "Sure and Steadfast" },
+        { "label": "Bible reference", "value": "Hebrews 6:19" },
+        { "label": "Emblem", "value": "Anchor and Red Cross" },
+        { "label": "BB Object (key words)", "value": "Christ's Kingdom, Boys, habits of Obedience, Reverence, Discipline, Self-Respect, Christian Manliness" }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Uniform & Dress Codes",
+      "icon": "👔",
+      "content": "**The 5 Types of Uniforms:**\n1. Day Dress (Full Uniform)\n2. Ceremonial Dress\n3. Musketry Kit (Half Uniform)\n4. Fatigue Dress\n5. PT Kit\n\n**PT Kit for a Private (PTE) consists of:**\n1. Blue BB T-shirt\n2. Name tag\n3. Dark blue shorts\n4. White socks\n5. Running shoes",
+      "keyFacts": [
+        { "label": "Uniform 1", "value": "Day Dress (Full Uniform)" },
+        { "label": "Uniform 2", "value": "Ceremonial Dress" },
+        { "label": "Uniform 3", "value": "Musketry Kit (Half Uniform)" },
+        { "label": "Uniform 4", "value": "Fatigue Dress" },
+        { "label": "Uniform 5", "value": "PT Kit" },
+        { "label": "PT Kit items (PTE)", "value": "Blue BB T-shirt, Name tag, Dark blue shorts, White socks, Running shoes" }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "NCO & Officer Ranks",
+      "icon": "⭐",
+      "content": "**NCO = Non-Commissioned Officer**\n\n**The 5 NCO Ranks** (lowest to highest):\n1. Lance Corporal (LCP)\n2. Corporal (CPL)\n3. Sergeant (SGT)\n4. Staff Sergeant (SSG)\n5. Warrant Officer (WO)\n\n**CSM = Company Sergeant Major** — the most senior NCO role in a company.\n\n**Post-Secondary BB Program = Primers Program**\nRanks in Primers Program:\na. Cadet Lieutenant (1st year)\nb. Senior Cadet Lieutenant (subsequent years)\n\n**BB Officers Ranks** (by level of training):\na. Officer Cadet\nb. 2nd Lieutenant\nc. Lieutenant",
+      "keyFacts": [
+        { "label": "NCO", "value": "Non-Commissioned Officer" },
+        { "label": "CSM", "value": "Company Sergeant Major" },
+        { "label": "NCO rank 1 (lowest)", "value": "Lance Corporal (LCP)" },
+        { "label": "NCO rank 2", "value": "Corporal (CPL)" },
+        { "label": "NCO rank 3", "value": "Sergeant (SGT)" },
+        { "label": "NCO rank 4", "value": "Staff Sergeant (SSG)" },
+        { "label": "NCO rank 5 (highest)", "value": "Warrant Officer (WO)" },
+        { "label": "Post-secondary program", "value": "Primers Program" },
+        { "label": "Primers ranks", "value": "Cadet Lieutenant → Senior Cadet Lieutenant" },
+        { "label": "Officer ranks", "value": "Officer Cadet → 2nd Lieutenant → Lieutenant" }
+      ]
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "Who started The Boys' Brigade?",
+      "options": [
+        "Sir William Alexander Smith",
+        "Sir William Smith Alexander",
+        "James Milner Fraser",
+        "Quek Eng Moh"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "When was the founder of The Boys' Brigade born?",
+      "options": [
+        "12th January 1930",
+        "27th October 1854",
+        "10th May 1914",
+        "4th October 1883"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "question": "Where was the founder of The Boys' Brigade born?",
+      "options": [
+        "Scotland",
+        "England",
+        "Ireland",
+        "Singapore"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "question": "When was The Boys' Brigade founded?",
+      "options": [
+        "1883",
+        "1930",
+        "1854",
+        "1890"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "question": "Who started The Boys' Brigade in Singapore?",
+      "options": [
+        "James Milner Fraser",
+        "Sir William Alexander Smith",
+        "Quek Eng Moh",
+        "William Muir"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "question": "When was The Boys' Brigade in Singapore founded?",
+      "options": [
+        "12th January 1930",
+        "12th April 1945",
+        "12th January 1940",
+        "15th February 1945"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "question": "Where was The Boys' Brigade in Singapore founded?",
+      "options": [
+        "Prinsep Street Presbyterian Centre",
+        "Adam Road Presbyterian Centre",
+        "Pioneer Secondary School",
+        "Fuchun Secondary School"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "q8",
+      "type": "writing",
+      "marks": 10,
+      "question": "Write out the BB Vesper in full. (10 marks)"
+    },
+    {
+      "id": "q9",
+      "type": "writing",
+      "marks": 10,
+      "question": "Write out the BB Table Grace in full. (10 marks)"
+    },
+    {
+      "id": "q10",
+      "type": "writing",
+      "marks": 4,
+      "question": "Write down the BB Motto (2m) and BB Emblem (2m). (4 marks)"
+    },
+    {
+      "id": "q11",
+      "type": "writing",
+      "marks": 2,
+      "question": "What Bible verse was the BB motto taken from? (2 marks)"
+    },
+    {
+      "id": "q12",
+      "type": "writing",
+      "marks": 15,
+      "question": "Write out the BB Object in full. (15 marks)"
+    },
+    {
+      "id": "q13",
+      "type": "writing",
+      "marks": 5,
+      "question": "Name the 5 types of uniforms available in The Boys' Brigade. (5 marks)"
+    },
+    {
+      "id": "q14",
+      "type": "writing",
+      "marks": 5,
+      "question": "For a Private (PTE), what does the PT Kit consist of? List all 5 items. (5 marks)"
+    },
+    {
+      "id": "q15",
+      "type": "writing",
+      "marks": 20,
+      "question": "Name all 5 NCO ranks in The Boys' Brigade from lowest to highest. (20 marks)"
+    },
+    {
+      "id": "q16",
+      "type": "writing",
+      "marks": 2,
+      "question": "What is the post-secondary BB program known as? (2 marks)"
+    },
+    {
+      "id": "q17",
+      "type": "writing",
+      "marks": 4,
+      "question": "What ranks do Primers Program members hold? Give both rank levels (a and b). (4 marks)"
+    },
+    {
+      "id": "q18",
+      "type": "writing",
+      "marks": 6,
+      "question": "Name the 3 BB Officers ranks according to their level of training. (6 marks)"
+    },
+    {
+      "id": "q19",
+      "type": "writing",
+      "marks": 2,
+      "question": "What does the acronym NCO stand for? (2 marks)"
+    },
+    {
+      "id": "q20",
+      "type": "writing",
+      "marks": 2,
+      "question": "What does the acronym CSM stand for? (2 marks)"
+    }
+  ]
+}
