@@ -71,7 +71,7 @@ export default async (req) => {
     mcqScore: latest.mcqScore,
     writingTotal: latest.writingTotal,
     totalScore: latest.totalScore,
-    passed: latest.totalScore >= 60,
+    passed: latest.totalScore >= 76,
     gradedAt: latest.gradedAt,
     mcqResults: mcqs.map((q, i) => ({
       number: i + 1,

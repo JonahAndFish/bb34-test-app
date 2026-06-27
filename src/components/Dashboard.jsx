@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const PASS_MARK = 60;
+const PASS_MARK = 76;
 
 function calcMcq(answers, questions) {
   const mcqs = questions.filter(q => q.type === 'mcq');
@@ -229,7 +229,7 @@ export default function Dashboard({ submissions, questions, password, onRefresh 
         <StatCard label="Graded" value={graded.length} sub={`${ungradedCount} pending`} />
         <StatCard label="Avg MCQ" value={`${avgMcq.toFixed(1)}/14`} color="var(--blue)" />
         <StatCard label="Avg Total" value={avgTotal !== null ? `${avgTotal.toFixed(1)}/101` : '—'} sub={graded.length ? `from ${graded.length} graded` : 'grade to see'} color="var(--green)" />
-        <StatCard label="Passing" value={graded.length ? `${passed}/${graded.length}` : '—'} sub={`≥${PASS_MARK} marks`} color={passed > 0 ? 'var(--green)' : 'var(--gray-400)'} />
+        <StatCard label="Passing" value={graded.length ? `${passed}/${graded.length}` : '—'} sub={`≥${PASS_MARK} marks (75%)`} color={passed > 0 ? 'var(--green)' : 'var(--gray-400)'} />
       </div>
 
       {/* Grade all button */}
